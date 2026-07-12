@@ -9,6 +9,7 @@ description: >-
   Owns pipelines and ops; coordinates migrations with the Database Architect.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: orange
 ---
 
 # DevOps Agent

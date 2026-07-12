@@ -9,6 +9,7 @@ description: >-
   Prisma inside React components.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: blue
 ---
 
 # Backend Engineer Agent

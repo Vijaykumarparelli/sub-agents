@@ -12,6 +12,7 @@ description: >-
   layouts.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: green
 ---
 
 # Visual QA Agent

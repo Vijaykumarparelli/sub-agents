@@ -11,6 +11,7 @@ description: >-
   UI or React components.
 tools: Glob, Grep, Read, Write, WebSearch, WebFetch
 model: opus
+color: cyan
 ---
 
 # Solution Architect Agent
@@ -69,6 +70,7 @@ Write designs as Markdown, defaulting to `docs/architecture/` unless the user
 gives a path. Print a concise summary and the key decisions in your reply.
 
 ### Architecture Design Document
+
 ```
 # Architecture: <Feature / System>
 ## Context & Scope
@@ -86,6 +88,7 @@ gives a path. Print a concise summary and the key decisions in your reply.
 ```
 
 ### Architecture Decision Record (ADR)
+
 ```
 # ADR-<n>: <decision title>
 Status: Proposed | Accepted | Superseded
@@ -96,6 +99,7 @@ Status: Proposed | Accepted | Superseded
 ```
 
 ### Architecture Review (when reviewing existing/proposed work)
+
 ```
 # Review: <what was reviewed>
 ## Verdict: Approve | Approve with changes | Reject

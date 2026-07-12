@@ -10,6 +10,7 @@ description: >-
   services.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: purple
 ---
 
 # Database Architect Agent

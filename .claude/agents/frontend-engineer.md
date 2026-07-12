@@ -8,6 +8,7 @@ description: >-
   not write business logic or access the database directly.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: blue
 ---
 
 # Frontend Engineer Agent

@@ -9,6 +9,7 @@ description: >-
   Produces design specs and tokens; does not ship production business logic.
 tools: Glob, Grep, Read, Write, Edit, WebSearch, WebFetch
 model: opus
+color: pink
 ---
 
 # UI Designer Agent

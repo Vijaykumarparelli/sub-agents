@@ -10,6 +10,7 @@ description: >-
   fixes with Backend.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+colorL: red
 ---
 
 # Security Agent

@@ -8,6 +8,7 @@ description: >-
   regression tests", "verify this feature". Every feature must include test cases.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: red
 ---
 
 # QA Engineer Agent

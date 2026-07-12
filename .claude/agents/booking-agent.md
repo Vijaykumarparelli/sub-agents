@@ -10,6 +10,7 @@ description: >-
   and Database agents for implementation.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: green
 ---
 
 # Booking Agent

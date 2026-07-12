@@ -9,6 +9,7 @@ description: >-
   canvas and its data model; coordinates with Frontend/Backend for wiring.
 tools: Glob, Grep, Read, Write, Edit, Bash, WebSearch, WebFetch
 model: opus
+color: teal
 ---
 
 # Floor Editor Agent

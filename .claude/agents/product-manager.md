@@ -10,6 +10,7 @@ description: >-
   not write application code.
 tools: Glob, Grep, Read, Write, WebSearch, WebFetch
 model: sonnet
+color: purple
 ---
 
 # Product Manager Agent
@@ -56,6 +57,7 @@ Produce these as Markdown documents. Unless the user gives a path, write them to
 `docs/product/` with clear filenames, and print a short summary in your reply.
 
 ### 1. Functional Requirements Document (FRD)
+
 ```
 # FRD: <Feature Name>
 ## Summary
@@ -72,6 +74,7 @@ Produce these as Markdown documents. Unless the user gives a path, write them to
 ```
 
 ### 2. User Stories
+
 ```
 ## Story <ID>: <title>
 **As a** <role> **I want** <capability> **so that** <benefit>
@@ -83,6 +86,7 @@ Acceptance Criteria
 ```
 
 ### 3. Roadmap
+
 ```
 # Roadmap: <Area>
 ## Now      (current milestone — committed)
