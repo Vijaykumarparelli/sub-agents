@@ -1,9 +1,0 @@
-{"timestamp":"00:00:20.500","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.503","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.505","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.511","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.512","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.516","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.524","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.535","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
-{"timestamp":"00:00:20.538","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/viparelly/Documents/Learning/landingangents/src/app'"}
